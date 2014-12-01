@@ -4,3 +4,5 @@
 build/
 coverage
 doc
+resources/cache/*
+openjdk-cache/*
